@@ -3,6 +3,7 @@ import {
   initTWE,
 } from "tw-elements";
 import { useEffect } from "react";
+import { motion } from "motion/react"
 
 export const App = () => {
 
@@ -96,9 +97,9 @@ export const App = () => {
           </div>
         </div>
       </nav>
-      <h1 class="text-3xl font-bold underline">
+      <motion.h1 animate={{ rotate: 360, transition: { duration: 2 } }} class="text-3xl font-bold underline text-center mt-10">
         Hello world!
-      </h1>
+      </motion.h1>
       
     </>
   )
