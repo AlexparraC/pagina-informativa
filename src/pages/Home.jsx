@@ -1,8 +1,11 @@
-import HeaderNav from "../components/HeaderNav";
+
+
 
 function Home () {
     return(
-        <HeaderNav/>
+        <>
+        <div>Home</div>
+        </>
     )
 }
 
