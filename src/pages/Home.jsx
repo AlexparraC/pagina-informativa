@@ -2,11 +2,11 @@ import Cards from "../components/cards";
 
 
 
-function Home () {
-    return(
+function Home() {
+    return (
         <>
-        <div>Home</div>
-        <Cards/>
+            <h1 class=" text-[#03658C] text-4xl text-center">Bienvenidos</h1>
+            <Cards />
         </>
     )
 }

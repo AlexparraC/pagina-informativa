@@ -22,7 +22,7 @@ function Footer() {
                         </Link>
 
                         <Link
-                            to="#!"
+                            to="http://www.linkedin.com/in/alexander-parra-calderon-05545323a"
                             target="_blank"
                             type="button"
                             class="rounded-full bg-[#04256C] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
@@ -63,7 +63,7 @@ function Footer() {
 
                 <div class="w-full bg-black/5 p-4 text-center">
                     © 2025 Copyright:
-                    <p>Jhon Alexander Parra</p>
+                    <p>Jhon Alexander Parra Calderon</p>
                 </div>
                 <div class="w-full bg-black/5 p-4 text-center">
                     © 2025 Copyright:
