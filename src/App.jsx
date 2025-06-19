@@ -1,6 +1,7 @@
 import AppRoutes from "./routes"
 import HeaderNav from "./components/HeaderNav"
 import Footer from "./components/Footer"
+import { Contacto } from "./components/Contacto"
 
 export const App = () => {
 
@@ -9,6 +10,7 @@ export const App = () => {
     <>
       <HeaderNav/>
       <AppRoutes />
+      <Contacto/>
       <Footer />
     </>
   )
