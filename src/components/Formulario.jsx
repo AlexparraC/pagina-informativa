@@ -1,11 +1,8 @@
 
 
-export const Contacto = () => {
+export const Formulario = () => {
     return (
         <div className="min-h-full">
-
-
-            
 
             <main>
                 <div className="container ml-auto mr-auto flex flex-wrap items-start mt-8">
