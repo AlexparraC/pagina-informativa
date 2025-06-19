@@ -1,4 +1,6 @@
-
+import ImagenComputador from "../assets/imagenComputador.png";
+import MantenimientoComputador from "../assets/MantenimientoComputador.jpg"
+import HerramientasComputador from "../assets/HerramientasComputador.jpeg"
 
 function Cards() {
 
@@ -10,7 +12,7 @@ function Cards() {
                 <div class="relative overflow-hidden bg-cover bg-no-repeat">
                     <img
                         class="rounded-t-lg"
-                        src="https://tecdn.b-cdn.net/img/new/standard/city/062.jpg"
+                        src={ImagenComputador}
                         alt="" />
                 </div>
                 <div class="p-6">
@@ -34,7 +36,7 @@ function Cards() {
                 <div class="relative overflow-hidden bg-cover bg-no-repeat">
                     <img
                         class="rounded-t-lg"
-                        src="https://tecdn.b-cdn.net/img/new/standard/city/062.jpg"
+                        src={MantenimientoComputador}
                         alt="" />
                 </div>
                 <div class="p-6">
@@ -58,7 +60,7 @@ function Cards() {
                 <div class="relative overflow-hidden bg-cover bg-no-repeat">
                     <img
                         class="rounded-t-lg"
-                        src="https://tecdn.b-cdn.net/img/new/standard/city/062.jpg"
+                        src={HerramientasComputador}
                         alt="" />
                 </div>
                 <div class="p-6">

@@ -64,7 +64,7 @@ function HeaderNav() {
                                     data-twe-nav-link-ref
                                     data-twe-ripple-init
                                     data-twe-ripple-color="light"
-                                >Home</NavLink>
+                                >Inicio</NavLink>
                             </li>
                             <li class="mb-4 lg:mb-0 lg:pe-2" data-twe-nav-item-ref>
                                 <NavLink
@@ -73,25 +73,25 @@ function HeaderNav() {
                                     data-twe-nav-link-ref
                                     data-twe-ripple-init
                                     data-twe-ripple-color="light"
-                                >Features</NavLink>
+                                >Contato</NavLink>
                             </li>
                             <li class="mb-4 lg:mb-0 lg:pe-2" data-twe-nav-item-ref>
-                                <a
+                                <NavLink
                                     class="block text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
-                                    href="#!"
+                                    to="#!"
                                     data-twe-nav-link-ref
                                     data-twe-ripple-init
                                     data-twe-ripple-color="light"
-                                >Pricing</a>
+                                >Pricing</NavLink>
                             </li>
                             <li class="mb-2 lg:mb-0 lg:pe-2" data-twe-nav-item-ref>
-                                <a
+                                <NavLink
                                     class="block text-black/60 transition duration-200 hover:text-black/80 hover:ease-in-out focus:text-black/80 active:text-black/80 motion-reduce:transition-none dark:text-white/60 dark:hover:text-white/80 dark:focus:text-white/80 dark:active:text-white/80 lg:px-2"
                                     href="#!"
                                     data-twe-nav-link-ref
                                     data-twe-ripple-init
                                     data-twe-ripple-color="light"
-                                >About</a>
+                                >About</NavLink>
                             </li>
                         </ul>
                     </div>
