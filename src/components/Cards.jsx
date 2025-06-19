@@ -1,12 +1,13 @@
 import ImagenComputador from "../assets/imagenComputador.png";
 import MantenimientoComputador from "../assets/MantenimientoComputador.jpg"
 import HerramientasComputador from "../assets/HerramientasComputador.jpeg"
+import { Link } from "react-router";
 
 function Cards() {
 
     return (
         <div class="flex flex-wrap justify-center gap-6 p-6">
-            
+
             <div
                 class="block max-w-[18rem] rounded-lg bg-white text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white">
                 <div class="relative overflow-hidden bg-cover bg-no-repeat">
@@ -23,11 +24,12 @@ function Cards() {
                     </p>
                 </div>
                 <div class="flex flex-wrap justify-center p-6">
-                    <a
+                    <Link
+                        to="/PartesComputador"
                         type="button"
                         class="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
                         Card Link
-                    </a>
+                    </Link>
                 </div>
             </div>
 
@@ -47,11 +49,12 @@ function Cards() {
                     </p>
                 </div>
                 <div class="flex flex-wrap justify-center p-6">
-                    <a
+                    <Link
+                        to="/TiposMantenimientoComputador"
                         type="button"
                         class="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
                         Card Link
-                    </a>
+                    </Link>
                 </div>
             </div>
 
@@ -71,11 +74,12 @@ function Cards() {
                     </p>
                 </div>
                 <div class="flex flex-wrap justify-center p-6">
-                    <a
+                    <Link
+                        to="/HerramientasComputador"
                         type="button"
                         class="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
                         Card Link
-                    </a>
+                    </Link>
                 </div>
             </div>
 
