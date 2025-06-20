@@ -5,14 +5,15 @@ function PartesComputador() {
         <>
             <h1 className=" text-[#03658C] font-extrabold text-4xl text-center">Partes del computador</h1>
             <div
-                class="embed-responsive embed-responsive-16by9 relative w-full overflow-hidden"
+                className="embed-responsive embed-responsive-16by9 relative w-full overflow-hidden"
                 style={{ paddingTop: '56.25%' }}>
                 <iframe
-                    class="embed-responsive-item absolute bottom-0 left-0 right-0 top-0 h-full w-full"
-                    src="https://www.youtube.com/watch?v=GBIRymEy_8A&t=2s"
-                    allowfullscreen=""
+                    className="embed-responsive-item absolute bottom-0 left-0 right-0 top-0 h-full w-full"
+                    src="https://www.youtube.com/embed/GBIRymEy_8A?start=2"
+                    title="Partes de una computadora"
+                    allowFullScreen=""
                     data-gtm-yt-inspected-2340190_699="true"
-                    id="240632615"/>
+                    id="video-partes-computador"></iframe>
             </div>
             
             <div>

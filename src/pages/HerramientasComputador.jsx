@@ -10,10 +10,11 @@ function HerramientasComputador() {
 >
                 <iframe
                     className="embed-responsive-item absolute bottom-0 left-0 right-0 top-0 h-full w-full"
-                    src="https://www.youtube.com/watch?v=BCnQGgctQ_Y"
+                    src="https://www.youtube.com/embed/BCnQGgctQ_Y"
+                    title="Herramientas para el mantenimiento correctivo y preventivo de un computador"
                     allowFullScreen=""
                     data-gtm-yt-inspected-2340190_699="true"
-                    id="240632615"/>
+                    id="video-Herrramientas"></iframe>
             </div>
             <div>
                 <div>
