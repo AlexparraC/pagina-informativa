@@ -17,10 +17,10 @@ function Cards() {
                         alt="" />
                 </div>
                 <div class="p-6">
-                    <h5 class="mb-2 text-xl font-medium leading-tight">Card title</h5>
+                    <h5 class="mb-2 text-xl font-medium leading-tight">Partes del computador</h5>
                     <p class="text-base">
-                        Some quick example text to build on the card title and make up the
-                        bulk of the card's content.
+                        En este apartado se encuentran las partes de un computador, donde se
+                        explican las partes que lo componen, su funcionamiento y su importancia.
                     </p>
                 </div>
                 <div class="flex flex-wrap justify-center p-6">
@@ -28,7 +28,7 @@ function Cards() {
                         to="/PartesComputador"
                         type="button"
                         class="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
-                        Card Link
+                        Saver mas 
                     </Link>
                 </div>
             </div>
@@ -42,10 +42,11 @@ function Cards() {
                         alt="" />
                 </div>
                 <div class="p-6">
-                    <h5 class="mb-2 text-xl font-medium leading-tight">Card title</h5>
+                    <h5 class="mb-2 text-xl font-medium leading-tight">Tipos de mantenimiento del computador</h5>
                     <p class="text-base">
-                        Some quick example text to build on the card title and make up the
-                        bulk of the card's content.
+                        En este apartado se encuentran los tipos de mantenimiento que se
+                        pueden realizar a un computador, donde se explican los diferentes tipos
+                        de mantenimiento y su importancia.
                     </p>
                 </div>
                 <div class="flex flex-wrap justify-center p-6">
@@ -53,7 +54,7 @@ function Cards() {
                         to="/TiposMantenimientoComputador"
                         type="button"
                         class="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
-                        Card Link
+                        Saver mas 
                     </Link>
                 </div>
             </div>
@@ -67,10 +68,11 @@ function Cards() {
                         alt="" />
                 </div>
                 <div class="p-6">
-                    <h5 class="mb-2 text-xl font-medium leading-tight">Card title</h5>
+                    <h5 class="mb-2 text-xl font-medium leading-tight">Herramientas</h5>
                     <p class="text-base">
-                        Some quick example text to build on the card title and make up the
-                        bulk of the card's content.
+                        En este apartado se encuentran las herramientas que se pueden utilizar
+                        para el mantenimiento de un computador, donde se explican las diferentes
+                        herramientas y su importancia.
                     </p>
                 </div>
                 <div class="flex flex-wrap justify-center p-6">
@@ -78,7 +80,7 @@ function Cards() {
                         to="/HerramientasComputador"
                         type="button"
                         class="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
-                        Card Link
+                        Saver mas 
                     </Link>
                 </div>
             </div>
