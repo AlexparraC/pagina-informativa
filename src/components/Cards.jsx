@@ -28,7 +28,7 @@ function Cards() {
                         to="/PartesComputador"
                         type="button"
                         className="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
-                        Saver mas 
+                        Saber mas 
                     </Link>
                 </div>
             </div>
@@ -54,7 +54,7 @@ function Cards() {
                         to="/TiposMantenimientoComputador"
                         type="button"
                         className="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
-                        Saver mas 
+                        Saber mas 
                     </Link>
                 </div>
             </div>
@@ -80,7 +80,7 @@ function Cards() {
                         to="/HerramientasComputador"
                         type="button"
                         className="pointer-events-auto me-5 inline-block cursor-pointer rounded text-base font-normal leading-normal text-[#153ABF] transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 focus:outline-none focus:ring-0 active:text-primary-700 dark:text-primary-400">
-                        Saver mas 
+                        Saber mas 
                     </Link>
                 </div>
             </div>
